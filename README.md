@@ -56,6 +56,6 @@ Memuat Gambar: Klik pada tombol "Load Image" untuk membuka dialog file dan pilih
 ![](https://github.com/subhanrizki/PENGOLAHAN-CITRA-TI-21-KA-212310020/blob/main/2024-10-22%2018-47-09.gif)
 
 # Developer
-Subhan Rizki - github.com/subhanrizki
-Fauzan Wafi - github.com/FauzanWafi
-Haris Febrian - github.com/harisfbrn
+1. Subhan Rizki - github.com/subhanrizki
+2. Fauzan Wafi - github.com/FauzanWafi
+3. Haris Febrian - github.com/harisfbrn
