@@ -57,5 +57,5 @@ Memuat Gambar: Klik pada tombol "Load Image" untuk membuka dialog file dan pilih
 
 # Developer
 1. Subhan Rizki - github.com/subhanrizki
-2. Fauzan Wafi - github.com/FauzanWafi
+2. Fauzan Wafi - github.com/Fauzanwafyy
 3. Haris Febrian - github.com/harisfbrn
