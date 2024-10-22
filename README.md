@@ -6,8 +6,7 @@ Aplikasi ini memungkinkan pengguna untuk memuat gambar, mengonversinya menjadi g
 
 # Instalasi
 1. Clone Instalasi Ke Repositori
-   ```bash
-  git clone https://github.com/subhanrizki/PENGOLAHAN-CITRA-TI-21-KA-212310020.git
+   ```bash git clone https://github.com/subhanrizki/PENGOLAHAN-CITRA-TI-21-KA-212310020.git
 
 3. Masuk Ke dalam project
    cd (PENGOLAHAN-CITRA-TI-21-KA-212310020)
